@@ -24,3 +24,4 @@ Create a script that creates the directories welcome/, welcome/to/ and welcome/t
 command that lists all the files and directories of the current directory, separated by commas
 command that lists all the files and directories of the current directory, separated by commas
 magic file school.mgc that can be used with the command file to detect School data files
+magic file school.mgc that can be used with the command file to detect School data files
