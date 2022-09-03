@@ -11,3 +11,4 @@ script that creates the directories welcome/, welcome/to/ and welcome/to/school 
 command that lists all the files and directories of the current directory, separated by commas
 Display current directory contents in a long format
 Create a script that creates a directory named my_first_directory in the /tmp/ directory
+Write a script that changes the working directory to the previous one
